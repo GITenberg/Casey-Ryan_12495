@@ -1,0 +1,32 @@
+_repo: Casey-Ryan_12495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Though she made her name as one of the first female authors to achieve
+  widespread popularity as a writer of Westerns, B. M. Bower's later work broached
+  the fascinating subject of the way that new technologies changed life on the range
+  forever. In Casey Ryan, the speed-loving stagecoach driver of the title meets his
+  match in a brand-new motorcar.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: Casey Ryan
+url: http://www.gutenberg.org/ebooks/12495
